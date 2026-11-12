@@ -1,7 +1,0 @@
-Ban đầu: 300,243 dòng, 11,147 sản phẩm
-Bỏ sản phẩm không có ảnh: còn 298,767
-Sửa nhóm cho 76 sản phẩm bị xếp sai (chuyển sang Đồ liền thân)
-Gom về 5 nhóm phối đồ: còn 298,767
-Gộp món mua nhiều cái trong cùng giỏ: còn 271,620
-Giữ giỏ 2–8 món: còn 231,381 dòng, 71,971 giỏ
-Số sản phẩm: 10,929 | theo nhóm: {'Áo': 4199, 'Quần/Chân váy': 2538, 'Đồ liền thân': 2264, 'Phụ kiện': 1423, 'Giày': 505}
