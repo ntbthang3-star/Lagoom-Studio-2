@@ -1,0 +1,8 @@
+# Màu chủ đạo của app. Sửa xong phải TẮT app (Ctrl+C) và chạy lại mới có tác dụng.
+[theme]
+base = "light"
+primaryColor = "#d6336c"            # màu nút chính, thanh trượt, tab đang chọn
+backgroundColor = "#fffafb"         # nền trang
+secondaryBackgroundColor = "#fdeef2" # nền thanh bên, ô nhập
+textColor = "#2b2130"               # màu chữ
+font = "sans serif"                 # "sans serif", "serif" hoặc "monospace"
