@@ -1,6 +1,0 @@
-﻿Phương pháp,AUC (test),Recall@10 (test)
-Ngẫu nhiên,0.5,0.006
-Bán chạy nhất,0.5870596972511062,0.026
-CLIP nguyên bản,0.6029566975852436,0.008
-Mô hình nhóm (ảnh + chữ),0.7325622785914438,0.046
-Mô hình nhóm (chỉ ảnh),0.7141702886163479,0.032
